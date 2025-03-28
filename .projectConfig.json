@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"ignoredFilesOrFolders":[],"openFiles":["enhancementOfRestaurantApp/src/components/Login/index.css","enhancementOfRestaurantApp/package.json","enhancementOfRestaurantApp/src/components/Home/index.js","enhancementOfRestaurantApp/src/App.js","enhancementOfRestaurantApp/src/index.js","enhancementOfRestaurantApp/src/components/CartItem/index.js"],"fileToBeOpened":"enhancementOfRestaurantApp/src/components/Login/index.js"}
+=======
+{"ignoredFilesOrFolders":[],"openFiles":["enhancementOfRestaurantApp/src/components/Login/index.js","enhancementOfRestaurantApp/src/components/Login/index.css","enhancementOfRestaurantApp/package.json","enhancementOfRestaurantApp/src/components/Home/index.js","enhancementOfRestaurantApp/src/App.js","enhancementOfRestaurantApp/src/index.js"],"fileToBeOpened":"enhancementOfRestaurantApp/src/components/CartItem/index.js"}
+>>>>>>> Enhancement: Updated Restaurant-App with new features
